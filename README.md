@@ -1,4 +1,4 @@
-**TASTEASE- DBMS RESTAURANT MANAGEMENT SYSTEM**
+#TASTEASE- DBMS RESTAURANT MANAGEMENT SYSTEM
 
 Developed a restaurant management system with HTML, CSS, and JavaScript, implementing 5+
 interactive features for user engagement, and Node.js with Express.js for the backend, utilising MySQL
